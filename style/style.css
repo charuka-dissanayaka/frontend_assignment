@@ -1,0 +1,58 @@
+@import url("//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css");
+
+/* #content{
+    background-image: url(https://images.unsplash.com/photo-1565514158740-064f34bd6cfd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80);
+    margin: 0;
+    padding: 0;
+
+}
+.blur{
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(8px); 
+    height: 100vh;
+    width: auto;
+     
+} */
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.form{
+    position: absolute;
+    padding: 25px;
+    padding-top: 35px;
+    width: 400px;
+    background:linear-gradient(225deg,#03a9f4,#e91e63);
+    border-radius: 20px;
+    box-shadow: 10px 10px 15px rgba(228, 188, 188, 0.5);
+    top: 25%;
+    left: 18% 
+    
+}
+
+.form .inputBx{
+    border-radius: 15px;
+    
+
+}
+#background {
+    background-image: url(https://source.unsplash.com/Q7PclNhVRI0);
+    
+    background-size: cover;
+}
+.blur {
+    background: rgba(255, 255, 255, 0.2); 
+    backdrop-filter: blur(8px);
+    background-image: linear-gradient();
+    height: 100vh;
+    width: auto;
+}
+
+
+.logos{
+    size: 30px;
+    
+    
+}
